@@ -25,7 +25,7 @@ Various Control Functions
 ▪ Trajectory Data and Moving Status (In-Position, Following Error, etc.)
 ▪ Energy Saving (Reduced Current from 100mA to 40mA)
 
-![Controlfunc](Control Func.PNG)
+![Controlfunc](ControlFunc.PNG)
 
 Sophisticated Control Architecture
 
@@ -33,4 +33,7 @@ Sophisticated Control Architecture
 ▪ Protocol 2.0 provides reliable packet communication
 
 ![CurrentControlArchitecture](CurrentControlArc.PNG)
+
+Specification
+
 
