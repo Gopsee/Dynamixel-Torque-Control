@@ -25,7 +25,7 @@ Various Control Functions
 ▪ Trajectory Data and Moving Status (In-Position, Following Error, etc.)
 ▪ Energy Saving (Reduced Current from 100mA to 40mA)
 
-![Controlfunc](ControlFunc.PNG)
+![Controlfunc](Control Func.PNG)
 
 Sophisticated Control Architecture
 
